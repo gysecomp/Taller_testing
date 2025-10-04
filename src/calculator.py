@@ -17,5 +17,3 @@ def division2(a,b):
 
 print(division(5,2))
 print(division2(5,2))
-
-print("HOLA MUNDO")
