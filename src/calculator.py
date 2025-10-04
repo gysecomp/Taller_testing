@@ -15,5 +15,3 @@ def division2(a,b):
     return a/b
 
 
-print(division(5,2))
-print(division2(5,2))
