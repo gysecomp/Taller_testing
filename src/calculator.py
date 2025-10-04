@@ -12,7 +12,7 @@ def division(a,b):
 def division2(a,b):
     if b == 0:
         return "Error: División por cero no está definida."
-    return round(a/b)
+    return a/b
 
 
 print(division(5,2))
